@@ -1,10 +1,12 @@
-# Vue.js via Laracasts Tutorial
+# Vue.js via Laracasts Tutorial / part 2
 
 > A Vue.js project
 
 ❉ По скринкасту https://laracasts.com/series/learn-vue-2-step-by-step
 
 :octocat:
+
+**Продолжение / с вебпаком и наложницами  :new_moon_with_face:**
 
 :white_check_mark: 16 — Webpack and vue-cli
 

@@ -10,7 +10,11 @@
 
 :white_check_mark: 16 — Webpack and vue-cli
 
-~~17 — Hot Module Replacement~~
+:white_check_mark: 17 — Hot Module Replacement
+
+**Пока закончила с этим скринкастом, т.к. пока не готова погружаться на такую глубину**
+
+**Там начались эпизоды с установкой Laravel, работой с PHP и бекендом**
 
 ~~18 — Vue Ajax Requests With Axios~~
 

@@ -3,9 +3,49 @@
   <head>
     <meta charset="utf-8">
     <title>vue-via-laracasts-2</title>
+
+    <style>
+      .primary__container {
+        width: 80%;
+        margin: auto;
+        padding: 10px 0 50px;
+      }
+      .primary__heading {
+        text-align: center;
+      }
+      .primary__under-heading {
+        text-align: center;
+      }
+
+      .demo__heading {
+        text-align: center;
+      }
+      .demo__hr {
+        width: 75%;
+        height: 1px;
+        border: 0;
+        background-color: gray;
+        margin: 40px auto;
+      }
+    </style>
+
   </head>
   <body>
-    <div id="app"></div>
+    <main class="primary__container">
+      <h1 class="primary__heading">Vue.js по скринкасту Laracasts</h1>
+      <h4 class="demo__heading">Часть 2: по эпизодам с 16 по 33</h4>
+      <div class="primary__under-heading">
+        <div>Часть 1 (эпизоды с 1 по 15):</div>
+        <div>репозиторий — <a href="https://github.com/EkaterinaSava/vue-via-laracasts">https://github.com/EkaterinaSava/vue-via-laracasts</a></div>
+        <div>демо — [coming soon]</div>
+      </div>
+
+      <hr class="demo__hr">
+
+      <div id="app"></div>
+    </main>
+
+
     <script src="/dist/build.js"></script>
   </body>
 </html>

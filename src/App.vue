@@ -1,8 +1,11 @@
 <template>
   <div id="app">
-    <message>Hello there!</message>
 
-    <message>One more</message>
+    <h4 class="demo__heading">Step 16 — Webpack and vue-cli</h4>
+
+    <message>Hello there! I'm Message component</message>
+
+    <message>And I'm Message component too! Hi!</message>
   </div>
 </template>
 
